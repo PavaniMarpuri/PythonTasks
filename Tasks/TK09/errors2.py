@@ -1,4 +1,16 @@
-# This example program is meant to demonstrate errors.
+"""
+Task:-
+
+● Attempt to run the program. You will encounter various errors.
+● Fix the errors and then run the program.
+● Each time you fix an error, add a # comment in the line where you fixed it
+and indicate which of the three types of errors it was with a brief
+explanation of why that is.
+● Save the corrected file.
+
+"""
+
+# This example program is meant to demonstrate errors.)
  
 # There are some errors in this program. Run the program, look at the error messages, and find and fix the errors.
 
