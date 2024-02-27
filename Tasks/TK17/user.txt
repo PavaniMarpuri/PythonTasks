@@ -1,0 +1,3 @@
+admin;password
+andry;test123
+francies;test321
